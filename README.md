@@ -1,28 +1,29 @@
 # Python Downloads Organizer 🧹🐍
 
-Una herramienta sencilla y eficaz escrita en Python para clasificar automáticamente los archivos de la carpeta de descargas según su extensión.
+A simple and effective tool written in Python to automatically classify files in your downloads folder according to their extension.
 
 ## Características ⚙️
-- **Multiplataforma:** Detecta automáticamente la carpeta ~/Descargas de tu usuario en Windows y Linux/macOS.
-- **Categorización Inteligente:** Organiza archivos en 7 categorías: Imágenes, Documentos, Programas, Comprimidos, Videos, Audio y Código.
-- **Seguro:** Solo mueve archivos, no los elimina.
+- **Cross-platfor:** Automatically detects the ~/Downloads folder of your user on Windows and Linux/macOS.
+- **Smart Categorization:** Organizes files into 7 categories: Images, Documents, Programs, Compressed, Videos, Audio, and Code.
+- **Safe:** Only moves files; it does not delete them.
 
-## Cómo usar 🐍❔
-1. Asegúrate de tener Python instalado.
-2. Clona este repositorio.
-3. Ejecuta el script:
+## How to use 🐍❔
+1. Make sure you have Python installed.
+2. Clone this repository.
+3. Run the script:
     `python main.py`
 
-## Tecnologías utilizadas 🛠️
+## Technologies used 🛠️
   **Python 3.x 🐍**
-  Librerías nativas: os, shutil (sin dependencias externas).
+  Native libraries: os, shutil (no external dependencies).
 
-## Categorías soportadas 📂
-| Categoría | Extensiones |
+## Supported categories 📂
+| Category | Extension |
 | :--- | :--- |
-| **Imágenes** | .jpg, .png, .gif, .webp |
-| **Documentos** | .pdf, .docx, .xlsx, .txt |
-| **Código** | .py, .js, .cpp, .html |
-| **Comprimidos** | .zip, .rar, .iso |
+| **Images** | .jpg, .png, .gif, .webp |
+| **Documents** | .pdf, .docx, .xlsx, .txt |
+| **Code** | .py, .js, .cpp, .html |
+| **Compressed** | .zip, .rar, .iso |
+| **And more...** | 🐍🐍🐍 |
 
-Desarrollado con cariño ❤️.
+Developed with love ❤️.
